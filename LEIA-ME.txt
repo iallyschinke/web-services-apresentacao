@@ -1,0 +1,10 @@
+APRESENTAÇÃO WEB SERVICES
+
+1. Extraia o arquivo ZIP.
+2. Abra o arquivo index.html no Google Chrome, Edge ou outro navegador.
+3. Use as setas esquerda/direita do teclado ou os botões para navegar.
+4. Pressione F para ativar/desativar a tela cheia (Esc também sai da tela cheia).
+5. Você também pode usar Espaço, PageDown, PageUp, Home e End.
+
+Funciona offline. Não requer Node.js, internet ou servidor local.
+As seis imagens estão em assets/.
